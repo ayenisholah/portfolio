@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 import about from "../../assets/about.svg"
 import experience from "../../assets/experience.svg"
 import contact from "../../assets/contact.svg"

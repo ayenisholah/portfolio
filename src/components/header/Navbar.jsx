@@ -1,6 +1,6 @@
 import Burger from "./Burger";
 import logo from "../../assets/logo.jpg"
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 
 export default function Navbar() {
     return (
